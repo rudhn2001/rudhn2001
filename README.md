@@ -2,6 +2,8 @@
 <!-- 
 
 **rudhn2001/rudhn2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+-->
+
 <h1 align="center">Hi 👋, I'm Anirudh</h1>
 <h3 align="center">i am a full stack developer. I am also interested in stuff slike cybser security, UI/UX designing, Digital Drawing, 3d modelling etc. You can check out some of my stuffs at https://instagram.com/s1mpl_isity, or at github only, Duh....</h3>
 
