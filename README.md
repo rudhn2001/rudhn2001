@@ -1,6 +1,6 @@
 ### Hi there 👋
+<!-- 
 
-<!--
 **rudhn2001/rudhn2001** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +13,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+ -->
+
+I'm Anirudh N, and i am a full stack developer. I am also interested in stuff slike cybser security, UI/UX designing, Digital Drawing, 3d modelling etc. You can check out some of my stuffs at https://instagram.com/s1mpl_isity, or at github only, Duh....
+
+[![Anirudh's GitHub stats](https://github-readme-stats.vercel.app/api?username=rudhn2001)](https://github.com/anuraghazra/github-readme-stats)
