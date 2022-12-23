@@ -17,7 +17,8 @@
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **nayakanirudh43@gmail.com**
+- 📫 How to reach me **nayakanirudh43@gmail.com** 
+-    My LinkedIn : **https://www.linkedin.com/in/anirudh-nayak-6679831b7/**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
